@@ -1,4 +1,4 @@
-# Driving-test
+![image](https://github.com/user-attachments/assets/7ce56d58-32cc-4a81-8e16-7f8bce98c8b5)# Driving-test
 # 驾考模拟练习拍照搜题小程序源码
 
 #### 源码介绍
@@ -34,7 +34,8 @@
 #### 功能展示
 
 1、首页
-![首页](https://github.com/user-attachments/assets/7c39a6c2-f742-440f-98dd-3bbecfbcd4e7)
+![image](https://github.com/user-attachments/assets/9c9afff2-714f-4b52-91eb-4245e2970252)
+
 
 2、会员管理
 
@@ -52,6 +53,9 @@
 
 ![小程序轮播](https://github.com/user-attachments/assets/fc8e4a5f-753f-4576-af4e-81e6e449205e)
 
+![image](https://github.com/user-attachments/assets/067c7e28-3438-4f40-b3b4-fb9608e258da)
+
+![image](https://github.com/user-attachments/assets/3d509bda-5594-429f-b274-c19c93444dd1)
 
 5、管理员管理
 
@@ -67,7 +71,9 @@
 
 ![整合图1 (1)](https://github.com/user-attachments/assets/78720057-efd9-49fe-8455-b0c865d44fe4)
 
-![整合图2 (1)](https://github.com/user-attachments/assets/c81175f1-6a63-40a7-a7e3-92b857eee8cd)
+![image](https://github.com/user-attachments/assets/52115c12-a223-40b2-963e-cd9558bfd996)
+
+![image](https://github.com/user-attachments/assets/1139cae8-a046-415c-8e98-56f6db8d8348)
 
 
 随着驾考政策的不断优化，越来越多的人开始重视驾照考试的准备工作。而在驾考的过程中，科目一和科目四的理论考试往往成为了不少考生的难点。为了解决考生在驾考复习考试中遇到的难题，开发了本款驾考模拟练习拍照搜题小程序，通过拍照即可快速识别并搜题，大大提升了学习效率
