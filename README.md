@@ -53,6 +53,8 @@
 
 ![小程序轮播](https://github.com/user-attachments/assets/fc8e4a5f-753f-4576-af4e-81e6e449205e)
 
+支持发放激活码兑换模式 获取学法减分/驾考拍照搜题次数
+
 ![image](https://github.com/user-attachments/assets/067c7e28-3438-4f40-b3b4-fb9608e258da)
 
 ![image](https://github.com/user-attachments/assets/3d509bda-5594-429f-b274-c19c93444dd1)
