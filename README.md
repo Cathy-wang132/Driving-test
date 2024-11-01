@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7ce56d58-32cc-4a81-8e16-7f8bce98c8b5)# Driving-test
 # 驾考模拟练习拍照搜题小程序源码
 
 #### 源码介绍
